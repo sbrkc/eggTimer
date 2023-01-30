@@ -19,11 +19,8 @@ class ViewController: UIViewController {
     let hardTime = 12
     
     @IBAction func hardnessSelected(_ sender: Any) {
-        let hardnessSelected = sender.currentTitle
         
-        if(hardnessSelected)
         
-        }
-    
 }
 
+}
